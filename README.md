@@ -383,7 +383,7 @@ Since BentoPDF is fully client-side, all processing happens in the user's browse
 
 **Download from Releases (Recommended):**
 
-The easiest way to self-host is to download the pre-built distribution file from our [GitHub releases](https://github.com/alam00000/bentopdf/releases). Each release includes a `dist-{version}.zip` file that contains all necessary files for self-hosting.
+The easiest way to self-host is to download/reload the pre-built distribution file from our [GitHub releases](https://github.com/alam00000/bentopdf/releases). Each release includes a `dist-{version}.zip` file that contains all necessary files for self-hosting.
 
 1. Go to [BentoPDF Releases](https://github.com/alam00000/bentopdf/releases)
 2. Download the latest `dist-{version}.zip` file
